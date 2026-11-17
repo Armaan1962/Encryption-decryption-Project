@@ -1,0 +1,11 @@
+1	2026-11-17 13:26:24	html.txt	Caesar Cipher	ENCRYPT	N/A	714 B	FAILED
+2	2026-11-17 13:26:37	html.txt	Caesar Cipher	ENCRYPT	***	714 B	SUCCESS
+3	2026-11-17 21:55:56	DirectInput.txt	Caesar Cipher	ENCRYPT	N/A	20 B	FAILED
+4	2026-11-17 21:56:06	DirectInput.txt	Caesar Cipher	ENCRYPT	he***o	20 B	FAILED
+5	2026-11-17 21:57:05	sample_document.txt	Caesar Cipher	ENCRYPT	12***6	467 B	SUCCESS
+6	2026-11-17 21:57:38	sample_document.txt	Caesar Cipher	DECRYPT	N/A	467 B	FAILED
+7	2026-11-17 21:57:42	sample_document.txt	Caesar Cipher	DECRYPT	12***6	467 B	SUCCESS
+8	2026-11-17 21:57:53	sample_document.txt	Caesar Cipher	ENCRYPT	12***6	6 B	SUCCESS
+9	2026-11-17 21:58:04	sample_document.txt	Caesar Cipher	ENCRYPT	12***6	20 B	SUCCESS
+10	2026-11-17 21:58:17	sample_document.txt	Caesar Cipher	DECRYPT	12***6	20 B	SUCCESS
+11	2026-11-17 22:04:38	sample_document.txt	Caesar Cipher	ENCRYPT	12***4	52 B	SUCCESS
